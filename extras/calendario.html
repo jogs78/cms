@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>TITULO</title>
+<style  type="text/css">@import url(jscalendar-1.0/calendar-ittg.css);</style>
+<script type="text/javascript" src="jscalendar-1.0/calendar.js"></script>
+<script type="text/javascript" src="jscalendar-1.0/lang/calendar-es.js"></script>
+<script type="text/javascript" src="jscalendar-1.0/calendar-setup.js"></script>
+</head>
+<body>
+ESTO ES UN CALENDARIO
+<form ...>
+ <br />
+  <input type="text" value="15/03/1978" id="data3" name="data" />
+  <button id="trigger">...</button>
+</form>
+<script type="text/javascript">
+  Calendar.setup(
+    {
+      inputField  : "data3",         // ID of the input field
+      ifFormat    : "%d/%m/%Y",    // the date format
+ 	  weekNumbers : false,
+	  singleClick : false,
+	  range       : [1975,1985],
+      button      : "trigger",       // ID of the button
+	  step        :  1
+    }
+  );
+</script>
+</body>
+</html>

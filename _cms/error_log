@@ -1,0 +1,24 @@
+[06-Aug-2015 04:48:27 UTC] PHP Fatal error:  Call to a member function NumRows() on a non-object in /home/jogs78/public_html/ittg/cms/_cms/auth.php on line 173
+[06-Aug-2015 05:49:14 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 6
+[06-Aug-2015 05:49:38 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 6
+[06-Aug-2015 05:49:59 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 6
+[06-Aug-2015 05:50:08 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 6
+[06-Aug-2015 05:52:13 UTC] PHP Fatal error:  Call to undefined function require_uno() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:27 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:29 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:30 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:31 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:32 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:32 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[06-Aug-2015 05:52:32 UTC] PHP Fatal error:  Call to undefined function require_one() in /home/jogs78/public_html/ittg/cms/_cms/uno.php on line 3
+[09-Aug-2015 02:25:41 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:26:26 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:26:56 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:30:00 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:30:52 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:30:56 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:31:04 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:31:07 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:31:25 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:31:40 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11
+[09-Aug-2015 02:31:43 UTC] PHP Fatal error:  Class 'Auth' not found in /home/jogs78/public_html/ittg/cms/_cms/index.php on line 11

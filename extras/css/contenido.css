@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content .body .contenido {
+	width: 706px;
+	height: auto;
+	background-color: #FFFFFF;
+	float: right;
+	padding: 12px 12px 12px 10px;
+}
+/*.content .body .contenido .texto*/
+.imagenTexto{
+	margin: 0px auto;
+	max-width: 100%;
+	width: expression((documentElement.clientWidth > 500) ? "500px" : "100%" );
+}
+.cImage {
+	width:  130px;
+	height: auto;
+	float:left;
+	margin: 10px;
+	clear: right;
+}

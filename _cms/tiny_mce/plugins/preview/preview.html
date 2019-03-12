@@ -1,0 +1,44 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+#content {
+	text-align: justify;
+	width: 560px;
+	line-height: 20px;
+	background-image: url(http://www.ittg.edu.mx/img/fondoTexto.jpg);
+	float: left;
+	clear: both;
+}
+#content ul{
+list-style-image:url(http://www.ittg.edu.mx/img/vineta.gif);
+}
+
+#content table {
+	margin: 0px auto;
+}
+
+#content p {
+	font-weight: normal;
+}
+
+
+</style>
+<script language="javascript" src="../../tiny_mce_popup.js"></script>
+<script type="text/javascript" src="jscripts/embed.js"></script>
+<script type="text/javascript">
+tinyMCEPopup.onInit.add(function(ed) {
+	var dom = tinyMCEPopup.dom;
+
+//	dom.setHTML('content', '<div>HOLA');
+	dom.setHTML('content', ed.getContent());
+//	dom.setHTML('content', '</div>');
+});
+
+document.write('<base href="' + tinyMCEPopup.getWindowArg("base") + '">');
+</script>
+<title>{#preview.preview_desc}</title>
+</head>
+<body id="content">
+<!-- Gets filled with editor contents -->
+</body>
+</html>

@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content .body .contenido {
+	width: 700px;
+	height: auto;
+	background-color: #FFFFFF;
+	float: right;
+	padding: 12px 12px 12px 12px;
+}
+
+.content .body .contenido .wrap1 {
+	width: 490px;
+	float: left;
+	padding: 0px;
+	border: solid #CCCCCC;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-left-width: 2px;
+	border-right-width: 2px;
+}
+
+
+
+.content .body .contenido .wrap1 .notiTec {
+	margin:0px auto;
+	width: 480px;
+	padding: 8px 3px 8px 3px;
+	height: auto;
+}
+
+.content .body .contenido .wrap1 .notiTec div.c5 {
+	margin:0px auto;
+	width: 400px;
+	height: auto;
+}
+
+.content .body .contenido .wrap1 .notiTec p.c4 {text-align: justify}
+.content .body .contenido .wrap1 .notiTec p.c3 {text-align: center}
+.content .body .contenido .wrap1 .notiTec table.c8 {margin:auto;}
+.content .body .contenido .wrap1 .notiTec td.c7 {text-align:justify;}
+.content .body .contenido .wrap1 .notiTec td.c6 {text-align:right;padding-right:5px;}
+.content .body .contenido .wrap1 .notiTec div.c10 {text-align:center;}
+.content .body .contenido .wrap1 .notiTec img.c9 {padding-left:25px;}
+
+.content .body .contenido .wrap1 .paginasrec {
+	width: auto;
+	padding: 8px 3px 8px 3px;
+	height: auto;
+	text-align:center;
+}
+
+.content .body .contenido .avisos1 {
+	width: 190px;
+	text-align: left;
+	float: right;
+	padding-left: 5px;
+}

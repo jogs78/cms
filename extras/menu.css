@@ -1,0 +1,51 @@
+.clCMAbs {
+	LEFT: 0px; VISIBILITY: hidden; POSITION: absolute; TOP: 0px
+}
+.clBar {
+	VISIBILITY: hidden; WIDTH: 10px; POSITION: absolute; HEIGHT: 10px; BACKGROUND-COLOR: #dadcba; layer-background-color: #DADCBA
+}
+.clLevel0 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel0over {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel0 {
+	COLOR: black; BACKGROUND-COLOR: #dadcba; layer-background-color: #DADCBA
+}
+.clLevel0over {
+	CURSOR: hand; COLOR: #000080; BACKGROUND-COLOR: #dadcba; layer-background-color: #DADCBA
+}
+.clLevel0border {
+	VISIBILITY: hidden; POSITION: absolute; BACKGROUND-COLOR: #dadcba; layer-background-color: #006699
+}
+.clLevel1 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel1over {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel1 {
+	COLOR: #006699; BACKGROUND-COLOR: #dadcba; layer-background-color: #FCCE55
+}
+.clLevel1over {
+	CURSOR: hand; COLOR: #fcce55; BACKGROUND-COLOR: #006699; layer-background-color: #006699
+}
+.clLevel1border {
+	VISIBILITY: hidden; POSITION: absolute; BACKGROUND-COLOR: #dadcba; layer-background-color: #006699
+}
+.clLevel2 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel2over {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial,helvetica; POSITION: absolute
+}
+.clLevel2 {
+	COLOR: #006699; BACKGROUND-COLOR: #dadcba; layer-background-color: #FCCE55
+}
+.clLevel2over {
+	CURSOR: hand; COLOR: #cddbeb; BACKGROUND-COLOR: #006699; layer-background-color: #0099cc
+}
+.clLevel2border {
+	VISIBILITY: hidden; POSITION: absolute; BACKGROUND-COLOR: #dadcba; layer-background-color: #006699
+}

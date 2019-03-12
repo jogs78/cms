@@ -1,0 +1,6 @@
+*{
+	margin:0px;
+}
+.demodiv, #demoArr, #demoAba { border:1px dashed; background-color:#EAEAEA; text-align:center; }
+
+#demoArr { margin-bottom:4px; }

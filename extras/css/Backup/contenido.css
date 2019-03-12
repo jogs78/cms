@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content .body .contenido {
+	width: 706px;
+	height: auto;
+	background-color: #FFFFFF;
+	float: right;
+	padding: 12px 12px 12px 12px;
+}

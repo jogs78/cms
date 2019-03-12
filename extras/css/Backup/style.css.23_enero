@@ -1,0 +1,269 @@
+@charset "utf-8";
+
+/* CSS Document */
+* {
+	margin: 0px;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+a {
+	color: #007AC2;
+	text-decoration: none;
+}
+a:hover {
+	color: #0033FF;
+	text-decoration: underline;
+}
+
+body {
+	color: #333333;
+	background-color: #FFFFFF;
+	background-image: url(../img/bg.jpg);
+	background-repeat:  repeat-y;
+	background-position: center;
+	margin: 0px;
+}
+
+img {
+	border: 0px;
+}
+
+#capa_reloj {
+	width:auto;
+	border: 1px solid #CCCCCC;
+	display: block;
+	padding: 2px 2px 2px 2px;
+	font-size: 12px;
+}
+.content {
+	margin: 0px auto;
+	width: 900px;
+}
+.content .pie {
+	width: 900px;
+	height: 165px;
+	clear: both;
+	padding-top: 12px;
+}
+.content .endpage {
+	width: 900px;
+	height: 20px;
+	text-align: center;
+	font-size: 10px;
+	clear: both;
+	margin-top: 0px;
+	line-height: 24px;
+}
+.content  .body  .contenido  .noticias {
+	width: 196px;
+	text-align: left;
+	float: right;
+	padding-left: 5px;
+}
+.content .body .contenido .notiTec {
+	width: 494px;
+	float: left;
+	padding: 8px 3px 8px 3px;
+	height: auto;
+	border: solid #CCCCCC;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-left-width: 2px;
+	border-right-width: 2px;
+}
+
+
+.content .pie .compatible {
+	width: 449px;
+	height: 130px;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	padding-top: 10px;
+	float: left;
+	clear: both;
+}
+.content .pie .contactoTec {
+	width: 449px;
+	height: auto;
+	padding-top: 10px;
+	font-size: 11px;
+	font-weight: bold;
+	float: right;
+}
+.content .pie .contactoTec p {
+	font-weight: normal;
+}
+
+
+.content .title {
+	width: 890px;
+	height: 142px;
+	background-image: url(../img/title.jpg);
+	text-align: right;
+	padding-right: 10px;
+}
+.content .date .Hora {
+	width: 80px;
+	height: 40px;
+	text-align: center;
+	float: right;
+}
+.content .date .Hora p {
+	display: block;
+	border-color: #CCCCCC;
+	border: 1px;
+	padding: 2px 2px 2px 2px;
+}
+.content .body .contenido .estruc {
+	width: 700px;
+	float: right;
+	height: 30px;
+	padding-bottom: 12px;
+}
+
+
+
+.content .date .fecha {
+	width: 200px;
+	text-align: center;
+	height: 40px;
+	float: left;
+}
+.content .date {
+	margin: 0px auto;
+	width: 880px;
+	clear: both;
+	height: 40px;
+}
+.content  .date  p  {
+}
+.content .date .fecha p {
+	display: block;
+	border-color: #CCCCCC;
+	border: 1px;
+	padding: 2px 2px 2px 2px;
+}
+.content  .date  p  strong  {
+	color: #2F91C2;
+}
+.content .date .ittg {
+	width: 600px;
+	float: left;
+	height: 40px;
+	text-align: right;
+	background-image: url(../img/ittg.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.content .body {
+	width: 880px;
+	margin: 0px auto;
+	background-color: #FFFFFF;
+}
+.content .body .contenido {
+	width: 706px;
+	height: auto;
+	background-color: #FFFFFF;
+	float: right;
+	padding: 12px 12px 12px 12px;
+}
+.content .body .contenido .texto ul {
+	margin-left: 50px;
+	list-style-image: url(../img/vineta.gif);
+
+}
+
+
+.content .body .navigation {
+	width: 150px;
+	background-color: #DEDEDC;
+	float: left;
+	padding-top: 0px;
+}
+.content .body .navigation a {
+/*
+	background-image: url(../img/btn.jpg); 
+*/
+	color: #FFFFFF;
+	display: block;
+	padding: 8px 4px 8px 12px;
+	text-decoration: none;
+}
+.content .body .navigation a:hover {
+/*	background-image: url(../img/btnhover.jpg); */
+}
+.content .body .navigation h1 {
+	text-align: center;
+	padding: 0px 4px 8px 4px;
+	display: block;
+	width: 142px;
+	font-size: 14px;
+}
+
+.content .body .contenido .avisos {
+	width: 150px;
+	float: right;
+}
+.content .body .contenido .tecnoticias {
+	width: 550px;
+	float: left;
+}
+
+.selection {
+	display: block;
+	width: 134px;
+	height: 14px;
+	padding: 8px 4px 8px 12px;
+	color: #FFFFFF;
+	background-image: url(../img/btn.jpg);
+	background-repeat: no-repeat;
+}
+.content .body .contenido .texto {
+	text-align: justify;
+	width: 560px;
+	line-height: 20px;
+	background-image: url(../img/fondoTexto.jpg);
+	float: left;
+	clear: both;
+}
+
+
+.content .body .contenido .estruc ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.content .body .contenido .estruc ul li {
+	margin: 0px;
+	float: left;
+}
+.content .body .contenido .estruc a {
+	display: block;
+	background-image: url(../img/btn.jpg);
+	color: #FFFFFF;
+	width: 142px;
+	padding: 8px 4px 8px 4px;
+	text-decoration: none;
+	text-align: center;
+	background-repeat: no-repeat;
+	font-size: 11px;
+}
+.content .body .contenido .estruc a:hover {
+	background-image: url(../img/btnhover.jpg);
+	background-repeat: no-repeat;
+}.content .body .contenido .texto table {
+	margin: 0px auto;
+}
+.content .body .contenido .texto p {
+	font-weight: normal;
+}
+
+.content  .body  .contenido  .fotos {
+	width: 140px;
+	background-color: #217DB9;
+	text-align: center;
+	height: auto;
+	float: right;
+}
